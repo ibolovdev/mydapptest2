@@ -1,0 +1,19 @@
+{
+  "description": "Binary Ville Robot", 
+  "image": "ipfs://bafkreih5gxqxy4zdslj5hfyfijdqlle4n7dr5eyczreugo6rsxl4n6gf6m", 
+  "name": "Dave",
+  "attributes": [  
+{
+      "trait_type": "Base", 
+      "value": "Starfish"
+    }, 
+    {
+      "trait_type": "Eyes", 
+      "value": "Big"
+    }, 
+    {
+      "trait_type": "Mouth", 
+      "value": "Surprised"
+    }
+    ]
+}
