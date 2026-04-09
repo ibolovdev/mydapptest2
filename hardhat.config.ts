@@ -18,7 +18,7 @@ export default defineConfig({
     sepoliaalchemy: {
       type: "http",
       chainType: "l1",
-      url: ENV_ALCHEMY_API_KEY//"https://eth-sepolia.g.alchemy.com/v2/rWmu9sVEkanY0gbQXCow-",//configVariable("SEPOLIA_RPC_URL"),
+      url: ENV_ALCHEMY_API_KEY//"https://eth-sepolia.g.alchemy.com/v2/ ,//configVariable("SEPOLIA_RPC_URL"),
       //accounts: [""],//your wallet private key
     },
   },
